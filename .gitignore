@@ -2,6 +2,7 @@
 data/*
 !data/midi
 data/midi/*
+!data/midi/classical_valid
 !data/midi/examples
 !data/midi/notebook_examples
 
